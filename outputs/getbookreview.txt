@@ -1,5 +1,5 @@
 $ curl -s http://localhost:5000/review/1
 
 {
-    "testuser": "This is a great book"
+    "reviews": {}
 }
